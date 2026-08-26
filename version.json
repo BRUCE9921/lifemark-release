@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "versionCode": 2,
-  "url": "https://github.com/BRUCE9921/lifemark-release/releases/download/v1.1.0/lifemark-1.1.0.apk",
-  "note": "1. 新增「日子」：生日、纪念日、倒数日，支持农历每年重复\n2. 新增「资产」：记录购入价格与转售价，自动算日均成本\n3. 新增「订阅」：会员扣款管理，一键确认已扣款，月均支出一目了然\n4. 新建流程改版：五类入口直达，日记步骤精简，FAB 长按快加上次类型\n5. 日子与订阅支持本地提醒\n6. 修复部分文字出现黄色下划线等显示问题",
+  "version": "1.2.0",
+  "versionCode": 3,
+  "url": "https://github.com/BRUCE9921/lifemark-release/releases/download/v1.2.0/lifemark-1.2.0.apk",
+  "note": "1. 底部导航恢复对称排列：删「日子」Tab，四 Tab + 中央新建键更均衡\n2. 首页新增「打卡 / 日子 / 资产 / 订阅」四段切换，日子、资产、订阅以网格小组件呈现\n3. 无习惯时点击打卡区中央即可一键新建；新建打卡默认未完成\n4. 修复新建弹层右上角关闭键不明显：改为主色实心圆形按钮",
   "force": false
 }
